@@ -1,0 +1,14 @@
+
+h2 {
+    border: 10px solid red;
+    font-size: x-large;
+}
+
+#myHeader {
+    /* this is for my own purpose  */
+    /* color: blueviolet; */
+}
+
+.myClass {
+    text-align: right;
+}
